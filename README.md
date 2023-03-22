@@ -18,4 +18,5 @@ ok: 7. En el menú de navegación de la versión escritorio; distribuye los item
 ok: 8. En el menú de navegación de la versión móvil; haz que los items de menú salgan uno al lado del otro - 1 punto
 
 ok: 9. Cuando estamos en la versión móvil, los items del menú de la versión escritorio debería esconderse - 1 punto
+
 10. BONUS - Investiga cómo utilizar las animaciones generadas en [Animista.net](https://animista.net/play/entrances/roll-in). Usa una animación cualquiera para animar la entrada de los platos - 1 punto extra.
